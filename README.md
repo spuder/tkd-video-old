@@ -1,11 +1,19 @@
 # Convert mp4 to gif
 
 
-### Broken videos
+
+
+### Wrong videos
 
 - Jr. Blue Form
+- Senior Brown One Step Sparring
 
 
-### Missing videos
 
-- 
+### Batch Generation
+
+```
+for filename in ./SeniorBrown*; do
+  ./gif.sh $filename
+done
+```
