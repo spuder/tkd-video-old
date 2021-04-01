@@ -1,3 +1,7 @@
 *.mp4
 *.gif
+*.webm
+*.ytdl
 .DS_Store
+*.part
+*.part-*
