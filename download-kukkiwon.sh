@@ -1,3 +1,10 @@
+# Taegeuk 2
+url=https://www.youtube.com/watch?v=tGlrUplKHh8
+filename=$(youtube-dl ${url} --get-filename)
+filename=$(echo ${filename/webm/mp4})
+youtube-dl -f 135 ${url}
+mv "${filename}" Taegeuk2Jang.mp4
+
 # Taegeuk 3
 url=https://www.youtube.com/watch?v=ksSqKt0UkWo
 filename=$(youtube-dl ${url} --get-filename)
