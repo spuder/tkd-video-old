@@ -52,3 +52,9 @@ for filename in ./SeniorBrown*; do
   ./gif.sh $filename
 done
 ```
+
+```
+for filename in ./Taegeuk*; do
+  ./gif.sh $filename
+done
+```
