@@ -5,7 +5,8 @@
 set -u
 source $1
 
-REZ=${RESOLUTION:-480}
+RESOLUTION=${RESOLUTION:-480}
+FPS=${FPS:-8}
 
 function download_video {
   if [ ! -f "input/${INPUT_FILE}" ]; then
@@ -26,14 +27,17 @@ for i in "${SPLITS[@]}"
 do
   start_time=$(echo $i | cut -d'^' -f1)
   stop_time=$(echo $i | cut -d'^' -f2)
+  # duration=$stop_time-$start_time
+  # echo "duration is $duration"
 
   echo "start: ${start_time}; end ${stop_time}"
   if [ "${#SPLITS[@]}" -gt 1 ]; then
-    output=${OUTPUT_FILE}-part${part}-${REZ}.gif
+    output=${OUTPUT_FILE}-part${part}-${RESOLUTION}.gif
   else
-    output=${OUTPUT_FILE}-complete-${REZ}.gif
+    output=${OUTPUT_FILE}-complete-${RESOLUTION}.gif
   fi
-  ffmpeg -ss ${start_time} -to ${stop_time} -i "input/${INPUT_FILE}" -filter_complex "[0:v] fps=12,scale=${REZ}:-1,split [a][b];[a] palettegen [p];[b][p] paletteuse" -y output/${output}
+  ffmpeg -ss ${start_time} -to ${stop_time} -i "input/${INPUT_FILE}" -filter_complex "[0:v] fps=${FPS},scale=${RESOLUTION}:-1,split [a][b];[a] palettegen [p];[b][p] paletteuse" -y output/${output}
+  # ffmpeg -i output/${output} -filter_complex "color=c=red:s=${RESOLUTION}x10[bar];[0][bar]overlay=-w+(w/10)*t:H-h:shortest=1" -c:a copy output/red-${output}
   start_time=${stop_time}
   part=$((part+1))
 done
