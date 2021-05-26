@@ -23,8 +23,5 @@ for filename in *.env; do
       -e RESOLUTION \
       -e FPS \
       gifr
-    unset RESOLUTION
-    unset FPS
-    unset VIDEO_URL
 done
 ```
