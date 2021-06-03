@@ -1,0 +1,5 @@
+site_name: Tae Kwon Do
+theme:
+  name: material
+  features:
+    - navigation.tabs
