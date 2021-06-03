@@ -46,3 +46,4 @@ for filename in *.env; do
       -e FPS \
       gifr
 done
+```
