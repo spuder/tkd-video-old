@@ -4,6 +4,12 @@ Uses this repo to generate videos
 
 https://github.com/spuder/gifr
 
+Videos are hosted in this notion page
+
+https://www.notion.so/d9c0017ffc374ce09bdc8f55e25d30a5?v=75c81de4d5c848949af089063419b910
+
+
+
 ## Usage
 
 ```
