@@ -39,8 +39,8 @@ for filename in *.env; do
     echo $filename
     unset VIDEO_URL
     source $filename
-    export RESOLUTION=480
-    export FPS=8
+    export RESOLUTION=640
+    export FPS=10
     docker run \
       -v $(pwd)/input:/input \
       -v $(pwd)/output:/output \

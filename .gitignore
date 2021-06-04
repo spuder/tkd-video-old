@@ -1,6 +1,7 @@
-*.mp4
 *.webm
 *.ytdl
 .DS_Store
 *.part
 *.part-*
+*.gif
+Taegeuk*Jang.mp4
