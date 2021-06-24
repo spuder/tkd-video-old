@@ -23,3 +23,7 @@ services:
         <<: *default-app
         env_file:
         - JuniorBlueSparring.env
+    jr-blue-kicking:
+        <<: *default-app
+        env_file:
+        - JuniorBlueKicking.env
