@@ -15,7 +15,7 @@ https://www.notion.so/d9c0017ffc374ce09bdc8f55e25d30a5?v=75c81de4d5c848949af0890
 Docker Compose (Recomended)
 
 ```
-docker compose -f docker-compose.taegeuk3.yaml up
+docker compose -f docker-compose.taegeuk3.yaml up --remove-orphans
 ```
 
 Bash (Not Recomended)
