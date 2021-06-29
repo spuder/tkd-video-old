@@ -55,6 +55,10 @@ services:
         <<: *default-app
         env_file:
             - Taegeuk7Jang-DujumeokJeocheoJireugi2.env
+    taegeuk7-UtgeoreoArae1:
+        <<: *default-app
+        env_file:
+            - Taegeuk7Jang-UtgeoreoArae1.env
     # sr-blue-form-complete:
     #     <<: *default-app
     #     env_file:
