@@ -59,6 +59,18 @@ services:
         <<: *default-app
         env_file:
             - Taegeuk7Jang-UtgeoreoArae1.env
+    taegeuk7-DeungjumeokBakkanchigi1:
+        <<: *default-app
+        env_file:
+            - Taegeuk7Jang-DeungjumeokBakkanchigi1.env
+    taegeuk7-Pyojeokchagi1:
+        <<: *default-app
+        env_file:
+            - Taegeuk7Jang-Pyojeokchagi1.env
+    taegeuk7-Pyojeokchagi2:
+        <<: *default-app
+        env_file:
+            - Taegeuk7Jang-Pyojeokchagi2.env
     jr-red-form-complete:
         <<: *default-app
         env_file:
