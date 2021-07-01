@@ -71,6 +71,14 @@ services:
         <<: *default-app
         env_file:
             - Taegeuk7Jang-Pyojeokchagi2.env
+    taegeuk7-Yeopjieugi1:
+        <<: *default-app
+        env_file:
+            - Taegeuk7Jang-Yeopjieugi1.env
+    taegeuk7-Yeopjieugi2:
+        <<: *default-app
+        env_file:
+            - Taegeuk7Jang-Yeopjieugi2.env
     jr-red-form-complete:
         <<: *default-app
         env_file:
