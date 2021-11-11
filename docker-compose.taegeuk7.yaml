@@ -91,3 +91,7 @@ services:
         <<: *default-app
         env_file:
         - JuniorRedKicking.env
+    jr-red-nunchuck:
+        <<: *default-app
+        env_file:
+        - JuniorRedNunchuck.env
