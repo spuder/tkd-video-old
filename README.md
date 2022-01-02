@@ -23,87 +23,83 @@ make templates
 
 | Filename | Preview | 
 |---|---|
-| JuniorGreenForm-complete-640.gif| ![](./output%2FJuniorGreenForm-complete-640.gif) | 
-| JuniorGreenSparring-part2-640.gif| ![](./output%2FJuniorGreenSparring-part2-640.gif) | 
-| JuniorGreenKicking-part1-640.gif| ![](./output%2FJuniorGreenKicking-part1-640.gif) | 
-| JuniorGreenKicking-part2-640.gif| ![](./output%2FJuniorGreenKicking-part2-640.gif) | 
-| JuniorGreenSparring-part1-640.gif| ![](./output%2FJuniorGreenSparring-part1-640.gif) | 
+| JuniorGreenForm-complete-640.gif| ![](./output/JuniorGreenForm-complete-640.gif) | 
+| JuniorGreenSparring-part2-640.gif| ![](./output/JuniorGreenSparring-part2-640.gif) | 
+| JuniorGreenKicking-part1-640.gif| ![](./output/JuniorGreenKicking-part1-640.gif) | 
+| JuniorGreenKicking-part2-640.gif| ![](./output/JuniorGreenKicking-part2-640.gif) | 
+| JuniorGreenSparring-part1-640.gif| ![](./output/JuniorGreenSparring-part1-640.gif) | 
 
 # Senior Green
 
 | Filename | Preview | 
 |---|---|
 
-
-
 # Junior Blue
 
 | Filename | Preview | 
 |---|---|
-| JuniorBlueSparring-part1-640.gif| ![](./output%2FJuniorBlueSparring-part1-640.gif) | 
-| JuniorBlueKicking-part1-640.gif| ![](./output%2FJuniorBlueKicking-part1-640.gif) | 
-| JuniorBlueSparring-part2-640.gif| ![](./output%2FJuniorBlueSparring-part2-640.gif) | 
-| JuniorBlueKicking-part2-640.gif| ![](./output%2FJuniorBlueKicking-part2-640.gif) | 
+| JuniorBlueSparring-part1-640.gif| ![](./output/JuniorBlueSparring-part1-640.gif) | 
+| JuniorBlueKicking-part1-640.gif| ![](./output/JuniorBlueKicking-part1-640.gif) | 
+| JuniorBlueSparring-part2-640.gif| ![](./output/JuniorBlueSparring-part2-640.gif) | 
+| JuniorBlueKicking-part2-640.gif| ![](./output/JuniorBlueKicking-part2-640.gif) | 
 
 # Senior Blue
 
 | Filename | Preview | 
 |---|---|
-| SeniorBlueForm-complete-640.gif| ![](./output%2FSeniorBlueForm-complete-640.gif) | 
-| SeniorBlueSparring-part1-640.gif| ![](./output%2FSeniorBlueSparring-part1-640.gif) | 
-| SeniorBlueKicking-part2-640.gif| ![](./output%2FSeniorBlueKicking-part2-640.gif) | 
-| SeniorBlueKicking-part1-640.gif| ![](./output%2FSeniorBlueKicking-part1-640.gif) | 
-| SeniorBlueSparring-part2-640.gif| ![](./output%2FSeniorBlueSparring-part2-640.gif) | 
-
+| SeniorBlueForm-complete-640.gif| ![](./output/SeniorBlueForm-complete-640.gif) | 
+| SeniorBlueSparring-part1-640.gif| ![](./output/SeniorBlueSparring-part1-640.gif) | 
+| SeniorBlueKicking-part2-640.gif| ![](./output/SeniorBlueKicking-part2-640.gif) | 
+| SeniorBlueKicking-part1-640.gif| ![](./output/SeniorBlueKicking-part1-640.gif) | 
+| SeniorBlueSparring-part2-640.gif| ![](./output/SeniorBlueSparring-part2-640.gif) | 
 
 # Junior Brown
 
 | Filename | Preview | 
 |---|---|
-| JuniorBrownKicking-part2-640.gif| ![](./output%2FJuniorBrownKicking-part2-640.gif) | 
-| JuniorBrownBreaking-spencer-complete-640.gif| ![](./output%2FJuniorBrownBreaking-spencer-complete-640.gif) | 
-| JuniorBrownForm-part4-640.gif| ![](./output%2FJuniorBrownForm-part4-640.gif) | 
-| JuniorBrownKicking-part1-640.gif| ![](./output%2FJuniorBrownKicking-part1-640.gif) | 
-| JuniorBrownForm-part2-640.gif| ![](./output%2FJuniorBrownForm-part2-640.gif) | 
-| JuniorBrownForm-spencer-complete-640.gif| ![](./output%2FJuniorBrownForm-spencer-complete-640.gif) | 
-| JuniorBrownForm-complete-640.gif| ![](./output%2FJuniorBrownForm-complete-640.gif) | 
-| JuniorBrownForm-part3-640.gif| ![](./output%2FJuniorBrownForm-part3-640.gif) | 
-| JuniorBrownsparring-part2-640.gif| ![](./output%2FJuniorBrownsparring-part2-640.gif) | 
-| JuniorBrownForm-part1-640.gif| ![](./output%2FJuniorBrownForm-part1-640.gif) | 
-| JuniorBrownsparring-part1-640.gif| ![](./output%2FJuniorBrownsparring-part1-640.gif) | 
-
+| JuniorBrownKicking-part2-640.gif| ![](./output/JuniorBrownKicking-part2-640.gif) | 
+| JuniorBrownBreaking-spencer-complete-640.gif| ![](./output/JuniorBrownBreaking-spencer-complete-640.gif) | 
+| JuniorBrownForm-part4-640.gif| ![](./output/JuniorBrownForm-part4-640.gif) | 
+| JuniorBrownKicking-part1-640.gif| ![](./output/JuniorBrownKicking-part1-640.gif) | 
+| JuniorBrownForm-part2-640.gif| ![](./output/JuniorBrownForm-part2-640.gif) | 
+| JuniorBrownForm-spencer-complete-640.gif| ![](./output/JuniorBrownForm-spencer-complete-640.gif) | 
+| JuniorBrownForm-complete-640.gif| ![](./output/JuniorBrownForm-complete-640.gif) | 
+| JuniorBrownForm-part3-640.gif| ![](./output/JuniorBrownForm-part3-640.gif) | 
+| JuniorBrownsparring-part2-640.gif| ![](./output/JuniorBrownsparring-part2-640.gif) | 
+| JuniorBrownForm-part1-640.gif| ![](./output/JuniorBrownForm-part1-640.gif) | 
+| JuniorBrownsparring-part1-640.gif| ![](./output/JuniorBrownsparring-part1-640.gif) | 
 
 # Senior Brown
 
 | Filename | Preview | 
 |---|---|
-| SeniorBrownSparring-part2-640.gif| ![](./output%2FSeniorBrownSparring-part2-640.gif) | 
-| SeniorBrownKicking-part2-640.gif| ![](./output%2FSeniorBrownKicking-part2-640.gif) | 
-| SeniorBrownKicking-part1-640.gif| ![](./output%2FSeniorBrownKicking-part1-640.gif) | 
-| SeniorBrownSparring-part1-640.gif| ![](./output%2FSeniorBrownSparring-part1-640.gif) | 
-| SeniorBrownForm-part4-640.gif| ![](./output%2FSeniorBrownForm-part4-640.gif) | 
-| SeniorBrownForm-part1-640.gif| ![](./output%2FSeniorBrownForm-part1-640.gif) | 
-| SeniorBrownForm-complete-640.gif| ![](./output%2FSeniorBrownForm-complete-640.gif) | 
-| SeniorBrownForm-part2-640.gif| ![](./output%2FSeniorBrownForm-part2-640.gif) | 
-| SeniorBrownForm-part3-640.gif| ![](./output%2FSeniorBrownForm-part3-640.gif) | 
+| SeniorBrownSparring-part2-640.gif| ![](./output/SeniorBrownSparring-part2-640.gif) | 
+| SeniorBrownKicking-part2-640.gif| ![](./output/SeniorBrownKicking-part2-640.gif) | 
+| SeniorBrownKicking-part1-640.gif| ![](./output/SeniorBrownKicking-part1-640.gif) | 
+| SeniorBrownSparring-part1-640.gif| ![](./output/SeniorBrownSparring-part1-640.gif) | 
+| SeniorBrownForm-part4-640.gif| ![](./output/SeniorBrownForm-part4-640.gif) | 
+| SeniorBrownForm-part1-640.gif| ![](./output/SeniorBrownForm-part1-640.gif) | 
+| SeniorBrownForm-complete-640.gif| ![](./output/SeniorBrownForm-complete-640.gif) | 
+| SeniorBrownForm-part2-640.gif| ![](./output/SeniorBrownForm-part2-640.gif) | 
+| SeniorBrownForm-part3-640.gif| ![](./output/SeniorBrownForm-part3-640.gif) | 
 
 
 # Junior Red
 
 | Filename | Preview | 
 |---|---|
-| JuniorRedForm-complete-640.gif| ![](./output%2FJuniorRedForm-complete-640.gif) | 
-| JuniorRedNunchuckas-complete-640.gif| ![](./output%2FJuniorRedNunchuckas-complete-640.gif) | 
-| JuniorRedSparring-part1-640.gif| ![](./output%2FJuniorRedSparring-part1-640.gif) | 
-| JuniorRedKicking-part2-640.gif| ![](./output%2FJuniorRedKicking-part2-640.gif) | 
-| JuniorRedSparring-part2-640.gif| ![](./output%2FJuniorRedSparring-part2-640.gif) | 
-| JuniorRedKicking-part1-640.gif| ![](./output%2FJuniorRedKicking-part1-640.gif) | 
-
+| JuniorRedForm-complete-640.gif| ![](./output/JuniorRedForm-complete-640.gif) | 
+| JuniorRedNunchuckas-complete-640.gif| ![](./output/JuniorRedNunchuckas-complete-640.gif) | 
+| JuniorRedSparring-part1-640.gif| ![](./output/JuniorRedSparring-part1-640.gif) | 
+| JuniorRedKicking-part2-640.gif| ![](./output/JuniorRedKicking-part2-640.gif) | 
+| JuniorRedSparring-part2-640.gif| ![](./output/JuniorRedSparring-part2-640.gif) | 
+| JuniorRedKicking-part1-640.gif| ![](./output/JuniorRedKicking-part1-640.gif) | 
 
 # Senior Red
 
 | Filename | Preview | 
 |---|---|
+
 
 
 
